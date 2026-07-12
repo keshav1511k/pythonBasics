@@ -22,7 +22,7 @@ else:
      print(f"There is a {letter}")
 
 
-# sets (we can as take lists and tuples)
+# sets (we can also take lists and tuples)
 
 students = {"keshav", "kumar", "ankit"}
 student = input("enter a name of a student : ")
