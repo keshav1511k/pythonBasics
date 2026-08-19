@@ -21,7 +21,7 @@ array4 = np.array([[1],[2],[3],[4]])
 print(array3 * array4)  # Their is an error because of the dimensions as they are not same and none of them are 1.
 
 array5 = np.array([[1],[2],[3],[4],[5],[6],[7],[8],[9],[10]])
-array6 = np.aray([[1,2,3,4,5,6,7,8,9,10]])
+array6 = np.array([[1,2,3,4,5,6,7,8,9,10]])
 
 print(array5 * array6)  # The shape of this virtually created array is 10*10.
 
